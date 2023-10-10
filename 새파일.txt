@@ -1,0 +1,1505 @@
+
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td">+4</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td">+4</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td">+4</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td">+4</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+4</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td">+4</div></li>
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th"><span>잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                            <li>
+                    <div class="stet_th"><span>에디셔널 잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font><font color="Orange">스킬 사용 시, 일정 시간 동안 주무기의 기본 공격력의 일부값 만큼 LUK이 상승한다.(주무기의 공격력과 마력 중 높은 값으로 적용)
+<font color="#D57300">[특수 스킬 반지] 웨폰퍼프 - L링 4레벨</font>
+특수 스킬 반지는 중복 착용이 불가능합니다.</font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td">+4</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td">+4</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td">+4</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td">+4</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+4</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td">+4</div></li>
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th"><span>잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                            <li>
+                    <div class="stet_th"><span>에디셔널 잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font><font color="Orange">스킬 사용 시, 일정 시간 동안 주무기의 기본 공격력의 일부값 만큼 LUK이 상승한다.(주무기의 공격력과 마력 중 높은 값으로 적용)
+<font color="#D57300">[특수 스킬 반지] 웨폰퍼프 - L링 4레벨</font>
+특수 스킬 반지는 중복 착용이 불가능합니다.</font></div></li>
+
+        
+                                                                        
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+113</font> (40 <font color="SkyBlue">+ 0 + 73</font>)</div></li>
+
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+237</font> (40 <font color="SkyBlue">+ 40 + 157</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+2055</font> (360 <font color="SkyBlue">+ 0 + 1695</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td">+360</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+33</font> (2 <font color="SkyBlue">+ 0 + 31</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+30</font> (0 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+1028</font> (300 <font color="SkyBlue">+ 0 + 728</font>)</div></li>
+
+
+
+
+
+
+                    <li><div class="stet_th"><span>점프력</span></div><div class="point_td"><font color="SkyBlue">+5</font> (0 <font color="SkyBlue">+ 5 + 0</font>)</div></li>
+
+                        
+                    <li><div class="stet_th"><span>몬스터 방어력 무시</span></div><div class="point_td">+10%</div></li>
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+7%</font> (0% <font color="Green">+ 7%</font>)</div></li>
+
+                <li><div class="stet_th"><span>착용 레벨 감소</span></div><div class="point_td">-25</div></li>
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">1회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +12%<br>INT : +9%<br>LUK : +9%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +6%<br>LUK : +4%<br>공격력 : +11</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>18성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                        
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+113</font> (40 <font color="SkyBlue">+ 0 + 73</font>)</div></li>
+
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+237</font> (40 <font color="SkyBlue">+ 40 + 157</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+2055</font> (360 <font color="SkyBlue">+ 0 + 1695</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td">+360</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+33</font> (2 <font color="SkyBlue">+ 0 + 31</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+30</font> (0 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+1028</font> (300 <font color="SkyBlue">+ 0 + 728</font>)</div></li>
+
+
+
+
+
+
+                    <li><div class="stet_th"><span>점프력</span></div><div class="point_td"><font color="SkyBlue">+5</font> (0 <font color="SkyBlue">+ 5 + 0</font>)</div></li>
+
+                        
+                    <li><div class="stet_th"><span>몬스터 방어력 무시</span></div><div class="point_td">+10%</div></li>
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+7%</font> (0% <font color="Green">+ 7%</font>)</div></li>
+
+                <li><div class="stet_th"><span>착용 레벨 감소</span></div><div class="point_td">-25</div></li>
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">1회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +12%<br>INT : +9%<br>LUK : +9%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +6%<br>LUK : +4%<br>공격력 : +11</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>18성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td">+10</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td">+10</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td">+10</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td">+10</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+2</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td">+2</div></li>
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +12%<br>데미지 : +9%<br>공격력 : +9%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +9%<br>공격력 : +6%<br>INT : +6%</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+74</font> (5 <font color="SkyBlue">+ 0 + 69</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+74</font> (5 <font color="SkyBlue">+ 0 + 69</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+76</font> (5 <font color="SkyBlue">+ 0 + 71</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+72</font> (5 <font color="SkyBlue">+ 0 + 67</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+515</font> (200 <font color="SkyBlue">+ 0 + 315</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td"><font color="SkyBlue">+230</font> (200 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+39</font> (2 <font color="SkyBlue">+ 0 + 37</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+25</font> (2 <font color="SkyBlue">+ 0 + 23</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+18</font> (0 <font color="SkyBlue">+ 0 + 18</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +9%<br>LUK : +6%<br>최대 HP : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +2%<br>공격력 : +3<br>방어력 : +60</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br>고유장착 아이템<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">특별한 주문서를 사용하면 보스 장신구 세트 대신 여명의 보스 세트 효과를 받을 수 있다고 한다. 라무라무 마을의 촌장 슬라임에게 물어보자.</font>
+<font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font>
+가디언 엔젤 링, 여명의 가디언 엔젤 링은 중복 착용이 불가능합니다.</font></div></li>
+
+        
+                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th"><span>잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                            <li>
+                    <div class="stet_th"><span>에디셔널 잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br>고유장착 아이템<br>2023년 11월 4일 14시 22분까지 사용가능<br>유효기간 연장 불가<br></font><font color="Orange">예열이 필요 없습니다! 착용과 동시에 바로 <font color="#D57300">30%의 추가 경험치 효과</font>를 얻습니다.</font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+79</font> (5 <font color="SkyBlue">+ 16 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+79</font> (5 <font color="SkyBlue">+ 16 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+63</font> (5 <font color="SkyBlue">+ 0 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+111</font> (5 <font color="SkyBlue">+ 48 + 58</font>)</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+44</font> (5 <font color="SkyBlue">+ 6 + 33</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+22</font> (5 <font color="SkyBlue">+ 0 + 17</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+242</font> (100 <font color="SkyBlue">+ 0 + 142</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+6%</font> (0% <font color="Green">+ 6%</font>)</div></li>
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Purple">에픽</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +6%<br>LUK : +6%<br>LUK : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>DEX : +6<br>공격력 : +3</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+79</font> (5 <font color="SkyBlue">+ 16 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+79</font> (5 <font color="SkyBlue">+ 16 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+63</font> (5 <font color="SkyBlue">+ 0 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+111</font> (5 <font color="SkyBlue">+ 48 + 58</font>)</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+44</font> (5 <font color="SkyBlue">+ 6 + 33</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+22</font> (5 <font color="SkyBlue">+ 0 + 17</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+242</font> (100 <font color="SkyBlue">+ 0 + 142</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+6%</font> (0% <font color="Green">+ 6%</font>)</div></li>
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Purple">에픽</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +6%<br>LUK : +6%<br>LUK : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>DEX : +6<br>공격력 : +3</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td">+10</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td">+10</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td">+10</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td">+10</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+5</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td">+5</div></li>
+
+
+
+
+
+
+                    <li><div class="stet_th"><span>이동속도</span></div><div class="point_td">+10</div></li>
+
+                    <li><div class="stet_th"><span>점프력</span></div><div class="point_td">+10</div></li>
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th"><span>잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                            <li>
+                    <div class="stet_th"><span>에디셔널 잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+40</font> (10 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+40</font> (10 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+40</font> (10 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+40</font> (10 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+4000</font> (1000 <font color="SkyBlue">+ 0 + 3000</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td"><font color="SkyBlue">+4000</font> (1000 <font color="SkyBlue">+ 0 + 3000</font>)</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+25</font> (10 <font color="SkyBlue">+ 0 + 15</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+25</font> (10 <font color="SkyBlue">+ 0 + 15</font>)</div></li>
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +12%<br>최대 HP : +9%<br>LUK : +9%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="Purple">에픽</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +11<br>LUK : +10<br>DEX : +2%</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">고유 아이템<br>교환 불가<br>고유장착 아이템<br>황금 망치 사용 불가<br></font><font color="Orange">검은 마법사와의 결전을 준비하는 테네브리스 원정대를 위해 연합에서 제작한 특별한 힘을 가진 반지이다.
+테네브리스 원정대 반지 강화 주문서만 사용 가능
+잠재능력 및 에디셔널 잠재능력 부여 가능</font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+74</font> (10 <font color="SkyBlue">+ 24 + 40</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+85</font> (10 <font color="SkyBlue">+ 35 + 40</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+70</font> (10 <font color="SkyBlue">+ 20 + 40</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+109</font> (10 <font color="SkyBlue">+ 44 + 55</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+505</font> (250 <font color="SkyBlue">+ 0 + 255</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td">+250</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+1</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td">+1</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+219</font> (100 <font color="SkyBlue">+ 0 + 119</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+6%</font> (0% <font color="Green">+ 6%</font>)</div></li>
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">9회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Purple">에픽</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +6%<br>LUK : +3%<br>LUK : +3%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>공격력 : +3<br>최대 MP : +60</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br>고유장착 아이템<br></font>15성 강화 적용 최대 15성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+86</font> (8 <font color="SkyBlue">+ 20 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+87</font> (8 <font color="SkyBlue">+ 20 + 59</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+99</font> (8 <font color="SkyBlue">+ 32 + 59</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+114</font> (8 <font color="SkyBlue">+ 48 + 58</font>)</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+45</font> (1 <font color="SkyBlue">+ 0 + 44</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+21</font> (1 <font color="SkyBlue">+ 0 + 20</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+362</font> (150 <font color="SkyBlue">+ 0 + 212</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+5%</font> (0% <font color="Green">+ 5%</font>)</div></li>
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Purple">에픽</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +6%<br>INT : +3%<br>LUK : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>최대 MP : +60<br>공격력 : +3</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+16</font> (0 <font color="SkyBlue">+ 4 + 12</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+10</font> (0 <font color="SkyBlue">+ 0 + 10</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+14</font> (0 <font color="SkyBlue">+ 4 + 10</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+25</font> (0 <font color="SkyBlue">+ 12 + 13</font>)</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+4</font> (0 <font color="SkyBlue">+ 0 + 4</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+6</font> (0 <font color="SkyBlue">+ 0 + 6</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+6</font> (0 <font color="SkyBlue">+ 0 + 6</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">아이템 드롭률 : +20%<br>LUK : +9%<br>INT : +9%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">최대 MP : +1%<br>INT : +5<br>최대 HP : +40</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td">5성 강화 적용 최대 5성까지 강화 가능<br>황금망치 제련 적용<br></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td">+7</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td">+7</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td">+7</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td">+7</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+7</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td">+7</div></li>
+
+
+
+
+
+
+
+
+                        
+                    <li><div class="stet_th"><span>몬스터 방어력 무시</span></div><div class="point_td">+10%</div></li>
+
+
+
+                                                    <li>
+                    <div class="stet_th"><span>잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                            <li>
+                    <div class="stet_th"><span>에디셔널 잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font><font color="Orange">이 훈장을 차고 다니면 당신이 적어도 11주, 539번 이상 몬스터파크를 했다는 사실을 주위 사람들이 알게 된다.</font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td">+40</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td">+40</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td">+40</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td">+40</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td">+4000</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td">+4000</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+25</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td">+25</div></li>
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +12%<br>DEX : +9%<br>LUK : +9%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +2%<br>LUK : +6<br>최대 HP : +60</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">고유 아이템<br>교환 불가<br>고유장착 아이템<br></font><font color="Orange">꺼지지 않는 불꽃의 힘이 깃든 특별한 반지이다.</font></div></li>
+
+        
+                                                                <li><div class="stet_th"><span>공격속도</span></div><div class="point_td">빠름 (6단계)</div></li>
+                        
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+170</font> (100 <font color="SkyBlue">+ 0 + 70</font>)</div></li>
+
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+261</font> (100 <font color="SkyBlue">+ 55 + 106</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+255</font> (0 <font color="SkyBlue">+ 0 + 255</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td"><font color="SkyBlue">+255</font> (0 <font color="SkyBlue">+ 0 + 255</font>)</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+649</font> (276 <font color="SkyBlue">+ 133 + 240</font>)</div></li>
+
+
+
+
+
+
+
+
+
+                                            <li><div class="stet_th"><span>보스 몬스터<br>공격 시 데미지</span></div><div class="point_td"><font color="Green">+40%</font> (30% <font color="Green">+ 10%</font>)</div></li>
+
+                    <li><div class="stet_th"><span>몬스터 방어력 무시</span></div><div class="point_td">+20%</div></li>
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+5%</font> (0% <font color="Green">+ 5%</font>)</div></li>
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">보스 몬스터 공격 시 데미지 : +35%<br>STR : +9%<br>보스 몬스터 공격 시 데미지 : +30%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">STR : +9%<br>공격력 : +6%<br>공격력 : +6%</div>
+                </li>
+                            <li><div class="stet_th"><span>소울옵션</span></div><div class="point_td"><font color="Gold">위대한 루시드의 소울 적용</font><br>올스탯 : +5%<br><font color="Orange">소울 충전 시 '악몽의 지배자' 사용가능</font></div></li>
+                                <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                        
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+147</font> (30 <font color="SkyBlue">+ 0 + 117</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+24</font> (0 <font color="SkyBlue">+ 24 + 0</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+267</font> (30 <font color="SkyBlue">+ 64 + 173</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+1215</font> (0 <font color="SkyBlue">+ 0 + 1215</font>)</div></li>
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+88</font> (2 <font color="SkyBlue">+ 0 + 86</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+85</font> (0 <font color="SkyBlue">+ 0 + 85</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+645</font> (135 <font color="SkyBlue">+ 0 + 510</font>)</div></li>
+
+
+
+
+
+
+
+                        
+                    <li><div class="stet_th"><span>몬스터 방어력 무시</span></div><div class="point_td">+5%</div></li>
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+6%</font> (0% <font color="Green">+ 6%</font>)</div></li>
+
+                <li><div class="stet_th"><span>착용 레벨 감소</span></div><div class="point_td">-15</div></li>
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">7회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +12%<br>올스탯 : +6%<br>올스탯 : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">올스탯 : +5%<br>방어력 : +120<br>공격력 : +11</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>22성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+65</font> (35 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+105</font> (35 <font color="SkyBlue">+ 0 + 70</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+65</font> (35 <font color="SkyBlue">+ 0 + 30</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+119</font> (35 <font color="SkyBlue">+ 0 + 84</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+495</font> (0 <font color="SkyBlue">+ 0 + 495</font>)</div></li>
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+45</font> (20 <font color="SkyBlue">+ 0 + 25</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+45</font> (20 <font color="SkyBlue">+ 0 + 25</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+746</font> (300 <font color="SkyBlue">+ 0 + 446</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +9%<br>LUK : +6%<br>STR : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="Purple">에픽</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +11<br>방어력 : +2%<br>방어력 : +2%</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                        
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td">+10</div></li>
+
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td">+10</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+3</div></li>
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">보스 몬스터 공격 시 데미지 : +40%<br>몬스터 방어율 무시 : +30%<br>보스 몬스터 공격 시 데미지 : +20%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +9%<br>몬스터 방어율 무시 : +3%<br>공격력 : +6%</div>
+                </li>
+                                            <li>
+                        <div class="stet_th"><span>기타</span></div>
+                        <div class="point_td"><font color="windowtext">해당 사항이 없습니다.</font></div>
+                    </li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+25</font> (5 <font color="SkyBlue">+ 20 + 0</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td">+5</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+25</font> (5 <font color="SkyBlue">+ 20 + 0</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+45</font> (5 <font color="SkyBlue">+ 40 + 0</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td">+50</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td">+50</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td">+5</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td">+5</div></li>
+
+
+
+
+
+
+
+                    <li><div class="stet_th"><span>점프력</span></div><div class="point_td"><font color="SkyBlue">+3</font> (0 <font color="SkyBlue">+ 3 + 0</font>)</div></li>
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+5%</font> (0% <font color="Green">+ 5%</font>)</div></li>
+
+                                                    <li>
+                    <div class="stet_th"><span>잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                            <li>
+                    <div class="stet_th"><span>에디셔널 잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+73</font> (15 <font color="SkyBlue">+ 0 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+73</font> (15 <font color="SkyBlue">+ 0 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+73</font> (15 <font color="SkyBlue">+ 0 + 58</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+127</font> (15 <font color="SkyBlue">+ 40 + 72</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+405</font> (150 <font color="SkyBlue">+ 0 + 255</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td"><font color="SkyBlue">+1830</font> (150 <font color="SkyBlue">+ 1680 + 0</font>)</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+24</font> (1 <font color="SkyBlue">+ 6 + 17</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+18</font> (1 <font color="SkyBlue">+ 0 + 17</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+356</font> (150 <font color="SkyBlue">+ 0 + 206</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+4%</font> (0% <font color="Green">+ 4%</font>)</div></li>
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Purple">에픽</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +6%<br>INT : +12<br>LUK : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>INT : +6<br>공격력 : +3</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+24</font> (0 <font color="SkyBlue">+ 24 + 0</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+147</font> (30 <font color="SkyBlue">+ 0 + 117</font>)</div></li>
+
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+267</font> (30 <font color="SkyBlue">+ 64 + 173</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+1215</font> (0 <font color="SkyBlue">+ 0 + 1215</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxMP</span></div><div class="point_td"><font color="SkyBlue">+1800</font> (0 <font color="SkyBlue">+ 1800 + 0</font>)</div></li>
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+88</font> (2 <font color="SkyBlue">+ 0 + 86</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+85</font> (0 <font color="SkyBlue">+ 0 + 85</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+645</font> (135 <font color="SkyBlue">+ 0 + 510</font>)</div></li>
+
+
+
+
+
+
+
+                        
+                    <li><div class="stet_th"><span>몬스터 방어력 무시</span></div><div class="point_td">+5%</div></li>
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+5%</font> (0% <font color="Green">+ 5%</font>)</div></li>
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">7회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">올스탯 : +9%<br>LUK : +9%<br>올스탯 : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +6%<br>이동속도 : +8<br>공격력 : +11</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>22성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+48</font> (0 <font color="SkyBlue">+ 48 + 0</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+110</font> (40 <font color="SkyBlue">+ 0 + 70</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+24</font> (0 <font color="SkyBlue">+ 24 + 0</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+189</font> (40 <font color="SkyBlue">+ 79 + 70</font>)</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+65</font> (9 <font color="SkyBlue">+ 0 + 56</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+25</font> (0 <font color="SkyBlue">+ 0 + 25</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+584</font> (250 <font color="SkyBlue">+ 0 + 334</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+5%</font> (0% <font color="Green">+ 5%</font>)</div></li>
+
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="Green">레전드리</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">올스탯 : +9%<br>HP 회복 아이템 및 회복 스킬 효율 : +30%<br>피격 시 5% 확률로 데미지의 40% 무시</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="Purple">에픽</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">DEX : +14<br>LUK : +2%<br>DEX : +2%</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+146</font> (35 <font color="SkyBlue">+ 66 + 45</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+120</font> (35 <font color="SkyBlue">+ 0 + 85</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+80</font> (35 <font color="SkyBlue">+ 0 + 45</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+231</font> (35 <font color="SkyBlue">+ 55 + 141</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+1215</font> (0 <font color="SkyBlue">+ 0 + 1215</font>)</div></li>
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+46</font> (6 <font color="SkyBlue">+ 0 + 40</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+45</font> (6 <font color="SkyBlue">+ 0 + 39</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+1288</font> (450 <font color="SkyBlue">+ 0 + 838</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+6%</font> (0% <font color="Green">+ 6%</font>)</div></li>
+
+                <li><div class="stet_th"><span>착용 레벨 감소</span></div><div class="point_td">-25</div></li>
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +9%<br>LUK : +6%<br>DEX : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>최대 HP : +60<br>최대 MP : +60</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>18성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+146</font> (35 <font color="SkyBlue">+ 66 + 45</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+120</font> (35 <font color="SkyBlue">+ 0 + 85</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+80</font> (35 <font color="SkyBlue">+ 0 + 45</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+231</font> (35 <font color="SkyBlue">+ 55 + 141</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+1215</font> (0 <font color="SkyBlue">+ 0 + 1215</font>)</div></li>
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+46</font> (6 <font color="SkyBlue">+ 0 + 40</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+45</font> (6 <font color="SkyBlue">+ 0 + 39</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+1288</font> (450 <font color="SkyBlue">+ 0 + 838</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+6%</font> (0% <font color="Green">+ 6%</font>)</div></li>
+
+                <li><div class="stet_th"><span>착용 레벨 감소</span></div><div class="point_td">-25</div></li>
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +9%<br>LUK : +6%<br>DEX : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>최대 HP : +60<br>최대 MP : +60</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>18성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+146</font> (35 <font color="SkyBlue">+ 66 + 45</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+120</font> (35 <font color="SkyBlue">+ 0 + 85</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+80</font> (35 <font color="SkyBlue">+ 0 + 45</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+231</font> (35 <font color="SkyBlue">+ 55 + 141</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+1215</font> (0 <font color="SkyBlue">+ 0 + 1215</font>)</div></li>
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+46</font> (6 <font color="SkyBlue">+ 0 + 40</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+45</font> (6 <font color="SkyBlue">+ 0 + 39</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+1288</font> (450 <font color="SkyBlue">+ 0 + 838</font>)</div></li>
+
+
+
+
+
+
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+6%</font> (0% <font color="Green">+ 6%</font>)</div></li>
+
+                <li><div class="stet_th"><span>착용 레벨 감소</span></div><div class="point_td">-25</div></li>
+                                        <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">10회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +9%<br>LUK : +6%<br>DEX : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>최대 HP : +60<br>최대 MP : +60</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>18성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                                                            <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+30</font> (0 <font color="SkyBlue">+ 30 + 0</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+110</font> (40 <font color="SkyBlue">+ 0 + 70</font>)</div></li>
+
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+226</font> (40 <font color="SkyBlue">+ 74 + 112</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td"><font color="SkyBlue">+720</font> (0 <font color="SkyBlue">+ 0 + 720</font>)</div></li>
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+35</font> (9 <font color="SkyBlue">+ 0 + 26</font>)</div></li>
+
+                    <li><div class="stet_th"><span>마력</span></div><div class="point_td"><font color="SkyBlue">+25</font> (0 <font color="SkyBlue">+ 0 + 25</font>)</div></li>
+
+                    <li><div class="stet_th"><span>물리방어력</span></div><div class="point_td"><font color="SkyBlue">+729</font> (250 <font color="SkyBlue">+ 0 + 479</font>)</div></li>
+
+
+
+
+
+                    <li><div class="stet_th"><span>이동속도</span></div><div class="point_td"><font color="SkyBlue">+28</font> (10 <font color="SkyBlue">+ 0 + 18</font>)</div></li>
+
+                    <li><div class="stet_th"><span>점프력</span></div><div class="point_td"><font color="SkyBlue">+25</font> (7 <font color="SkyBlue">+ 0 + 18</font>)</div></li>
+
+                        
+
+
+                    <li><div class="stet_th"><span>올스탯</span></div><div class="point_td"><font color="Green">+6%</font> (0% <font color="Green">+ 6%</font>)</div></li>
+
+                <li><div class="stet_th"><span>착용 레벨 감소</span></div><div class="point_td">-25</div></li>
+                            <li><div class="stet_th"><span>업그레이드 가능 횟수</span></div><div class="point_td">2회</div></li>
+                            <li><div class="stet_th"><span>가위 사용 가능 횟수</span></div><div class="point_td">8회</div></li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +9%<br>LUK : +6%<br>최대 MP : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>최대 HP : +60<br>마력 : +3</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>17성 강화 적용 최대 25성까지 강화 가능<br>황금망치 제련 적용<br><font color="Orange"><font color="#D57300">플래티넘 카르마의 가위를 사용하면 1회 교환이 가능하게 할 수 있습니다.</font></font></div></li>
+
+        
+                                                    <li><div class="stet_th"><span>등급</span></div><div class="point_td">등급 : 9</div></li>
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th"><span>잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                            <li>
+                    <div class="stet_th"><span>에디셔널 잠재옵션</span></div>
+                    <div class="point_td"><font color="Red">해당 사항이 없습니다.</font></div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">월드 내 나의 캐릭터 간 이동만 가능<br></font><font color="Orange">안드로이드 장비 창에서 <font color="#D57300">상점가기</font> 버튼을 누르면 잡화상점 기능을 이용할 수 있는 안드로이드다. <font color="#D57300">안드로이드 심장</font>이 함께 장착되어야 작동한다.
+안드로이드 등급이 안드로이드 심장 등급과 같거나 높아야만 함께 장착할 수 있다.</font></div></li>
+
+        
+                                                    <li><div class="stet_th"><span>등급</span></div><div class="point_td">등급 : 5</div></li>
+                                                        <li><div class="stet_th"><span>STR</span></div><div class="point_td"><font color="SkyBlue">+19</font> (0 <font color="SkyBlue">+ 0 + 19</font>)</div></li>
+
+                    <li><div class="stet_th"><span>DEX</span></div><div class="point_td"><font color="SkyBlue">+19</font> (0 <font color="SkyBlue">+ 0 + 19</font>)</div></li>
+
+                    <li><div class="stet_th"><span>INT</span></div><div class="point_td"><font color="SkyBlue">+19</font> (0 <font color="SkyBlue">+ 0 + 19</font>)</div></li>
+
+                    <li><div class="stet_th"><span>LUK</span></div><div class="point_td"><font color="SkyBlue">+19</font> (0 <font color="SkyBlue">+ 0 + 19</font>)</div></li>
+
+                    <li><div class="stet_th"><span>MaxHP</span></div><div class="point_td">+100</div></li>
+
+
+
+
+                    <li><div class="stet_th"><span>공격력</span></div><div class="point_td"><font color="SkyBlue">+15</font> (0 <font color="SkyBlue">+ 0 + 15</font>)</div></li>
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+                                                    <li>
+                    <div class="stet_th">
+                        <span>
+                            잠재옵션
+                                <br>
+                                (<font color="#E3D04D">유니크</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">LUK : +9%<br>LUK : +6%<br>최대 HP : +6%</div>
+                </li>
+                            <li>
+                    <div class="stet_th">
+                        <span>
+                            에디셔널 잠재옵션
+                                <br>
+                                (<font color="SkyBlue">레어</font> 아이템)
+                        </span>
+                    </div>
+                        <div class="point_td">공격력 : +10<br>공격력 : +2<br>STR : +6</div>
+                </li>
+                                            <li><div class="stet_th"><span>기타</span></div><div class="point_td"><font color="Orange">교환 불가<br></font>8성 강화 적용 최대 8성까지 강화 가능<br></div></li>
+
+        
