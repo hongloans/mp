@@ -7,7 +7,10 @@ function App() {
     <>
       <ul>
         {dataList.map(([keyv, valuev]) => {
-          return <div>{keyv}</div>;
+          return (<div>
+            <h4>{keyv}</h4>
+            <div dangerouslySetInnerHTML={{ __html: valuev }}></div>
+          </div>);
         })}
       </ul>
     </>
